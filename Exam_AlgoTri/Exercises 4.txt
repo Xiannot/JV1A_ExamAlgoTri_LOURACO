@@ -1,0 +1,4 @@
+Le tri à bulles est considéré comme très lent car le fait de devoir, éxécuter le même code plusieurs fois et sa un très grand nombre de fois, du au fait
+que nous devons comparé chaque valeur avec la dernière pour savoir si elle est plus grandes ou non et de la remplacer si elle les ou non ,
+cela rajoute du temps d'exécution de programmation, se temps peut être calculer mais tout dépendra du nombre de valeur a calculer dans le tableau. sont éxécution sera en milliseconde
+si le tableau est d'une taille moyenne mais si cette dernière est d'une taille gigantesque cela peut monter jusqu'a la seconde
